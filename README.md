@@ -20,3 +20,7 @@ You can also log response times for multiple attempts.
 -This uses Nordic UART UUIDs (6e4000xx) — make sure Puck.js is advertising that (which it does via Bluetooth.println()).
 -It connects once and listens.
 -The TextDecoder is available on Bangle.js for BLE data — no need to polyfill.
+
+
+# IDE
+https://www.espruino.com/ide/
