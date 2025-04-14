@@ -1,5 +1,5 @@
 # Puck_Buzzer
-
+Normal Version
 # How to Test:
 - Upload Puck.js code, disconnect from IDE.
 - Upload Bangle.js code, disconnect from IDE (if needed to start scan).
