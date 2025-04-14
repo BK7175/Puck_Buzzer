@@ -1,5 +1,5 @@
 # Puck_Buzzer
-Normal Version
+Normal Version with [Bangle.js 2](https://www.espruino.com/Bangle.js2), and [Puck.js](https://www.espruino.com/Puck.js)
 # How to Test:
 - Upload Puck.js code, disconnect from IDE.
 - Upload Bangle.js code, disconnect from IDE (if needed to start scan).
